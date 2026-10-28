@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DropAlert</string>
+    <string name="notification_channel_tracking_name">Active Journey Tracking</string>
+    <string name="notification_channel_alarm_name">10-Minute Drop-Location Alarm</string>
+</resources>
